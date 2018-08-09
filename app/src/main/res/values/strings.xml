@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RemoteBindingServer</string>
+    <string name="start_bound_service">Start Bound/Sticky service</string>
+    <string name="stop_bound_service">Stop Bound/Sticky Servicex</string>
+</resources>
